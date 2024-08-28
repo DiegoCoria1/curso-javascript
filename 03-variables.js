@@ -16,3 +16,4 @@ console.log(nombrecompleto);
 
 let docente = 'Diego', age = 25, asignaturas = ['Taller de Hardware','Hardware y Electrónica Básica'];
 
+
